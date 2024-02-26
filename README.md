@@ -11,10 +11,10 @@ At RDM Srl, we are dedicated to providing innovative solutions for businesses in
 - **Customizable Solutions:** We offer customizable solutions tailored to the specific needs of each client, ensuring maximum flexibility and efficiency.
 
 ## How to Use
-To integrate our software solutions into your website, please contact our team at [contact@rdm.com](mailto:info@redomap.com). We will work closely with you to understand your requirements and provide the necessary assistance to implement our software seamlessly.
+To integrate our software solutions into your website, please contact our team at [info@redomap.com](mailto:info@redomap.com). We will work closely with you to understand your requirements and provide the necessary assistance to implement our software seamlessly.
 
 ## Support
-For any inquiries or support requests, feel free to reach out to us via email at [support@rdm.com](mailto:developer@redomap.com). Our dedicated support team is here to assist you with any questions or issues you may encounter.
+For any inquiries or support requests, feel free to reach out to us via email at [developer@redomap.com](mailto:developer@redomap.com). Our dedicated support team is here to assist you with any questions or issues you may encounter.
 
 ## License
 This repository and its contents are proprietary to RDM Srl. Unauthorized use, distribution, or reproduction of any part of this repository is strictly prohibited without prior consent from RDM Srl.
